@@ -1,4 +1,4 @@
-# Yandex_Practicum_Projects
+# Yandex Practicum Projects
 Проекты, выполненные за время обучения по программе "Аналитик данных" в Яндекс Практикуме.
 
 Сертификат об успешном окончании курса: https://disk.yandex.ru/i/Za8OBP0twPcD8g
